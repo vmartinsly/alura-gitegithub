@@ -1,0 +1,41 @@
+[33mcommit 05845a6d13ac557c086ab504da8e2c4065c17b58[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Vitor Martins Lyra <vmartinsly@gmail.com>
+Date:   Thu Jul 16 14:33:39 2020 -0300
+
+    Alterando o titulo do curso Docker
+
+[33mcommit 86eae78848bb75bda6f462e5d5dcf9ecc2012966[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: Vitor Martins Lyra <vmartinsly@gmail.com>
+Date:   Thu Jul 16 14:37:37 2020 -0300
+
+    Titulo com a palavra curso com o c maiúsculo
+
+[33mcommit da8bd8c0e5e4f48b4f7fbf44e9470075a5cc914b[m
+Author: Vitor Martins Lyra <vmartinsly@gmail.com>
+Date:   Thu Jul 16 14:14:06 2020 -0300
+
+    Alterando titulo da página
+
+[33mcommit 228e54d1c88875bbdd0fbcb32ea65846a5ca921b[m
+Author: Vitor Martins Lyra <vmartinsly@gmail.com>
+Date:   Thu Jul 16 14:11:39 2020 -0300
+
+    Alterando titulo da página
+
+[33mcommit 482685bd31ebb8b3be5bb8d6659227057caec021[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+Author: Vitor Martins Lyra <vmartinsly@gmail.com>
+Date:   Wed Jul 15 16:25:38 2020 -0300
+
+    Adicionando o arquivo .gitignore no projeto
+
+[33mcommit 832d7529cd25853ef357822d44729e28c99e5711[m
+Author: Vitor Martins Lyra <vmartinsly@gmail.com>
+Date:   Wed Jul 15 16:23:05 2020 -0300
+
+    Acento adicionado
+
+[33mcommit 342994eae5bab584b82dc1a5c618ac809f7f3d75[m
+Author: Vitor Martins Lyra <vmartinsly@gmail.com>
+Date:   Wed Jul 15 16:21:53 2020 -0300
+
+    Criando o arquivo index.html
